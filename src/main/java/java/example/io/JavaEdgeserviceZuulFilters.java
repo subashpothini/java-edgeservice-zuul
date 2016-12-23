@@ -40,4 +40,5 @@ public class JavaEdgeserviceZuulFilters extends ZuulFilter {
 		
 		return null;
 	}
+	
 }
